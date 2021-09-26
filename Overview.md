@@ -6,6 +6,20 @@ List of hikes
 
 # Monti della Laga
 
+1. Cesacastina - Le Cento Fonti [4 Abruzze]
+1. Gola Salinello [1 Abruzze]
+1. Battaglia - Monte Foltrone
+1. Mattere - Vallepezzata - M. Cuccone
+1. Olmeto - Laturo - Valzo
+1. Gabrielli - Lepora - Settecerro - Volle S. Pietro
+1. S. Giacomo - Il Larghetto - M. Piselli
+1. S. Giacomo - Costa del Prevosto - Il Lago
+1. Ascoli - M. Venta Rossa - Colle S. Marco
+1. Caprodossa - M. Ascencione
+1. Rotella - M. Ascencione
+1. Porchiano - M. Ascencione
+1. Castel di Croche - M. Ascencione
+
 # Majella
 
 1. Blockhaus - cma. Pomilio - (Monte Amaro)

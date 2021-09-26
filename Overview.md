@@ -44,6 +44,13 @@ List of hikes
 1. Porchiano - M. Ascencione
 1. Castel di Croche - M. Ascencione
 
+# Monte Ceresa
+
+1. Piedilama - Monte Veresa
+1. Tallacano [46 Marche]
+1. Tallacano - M. Vicito - M. Savucco
+1. Corneto - Venamartello - Cocoscia - Collefalciano - Vallefusella
+
 # Majella
 
 1. Blockhaus - cma. Pomilio - (Monte Amaro)

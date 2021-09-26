@@ -4,6 +4,30 @@ List of hikes
 
 # Monti Sibellini
 
+1. Roccafluvione - TRüffeltour
+1. Uscerno - Meschia - M. Pramonte - Colle Abetito
+1. Sentiero Naturale Montegallo
+1. Rifugio Amandola - M. Amandola - Colle Bassette - Balzo Rosso
+1. Rubbiano - Sentiero Naturale
+1. Umito - Volpara Wasserfälle [47 Marche]
+1. M. Communitore - Costa Piangran (Macera della Morte) [48 Marche]
+1. Norcia - Forca d'Ancarano - M. Patino E14 [28 Umbrien]
+1. Forca di Presta - Monte Vettore [45 Marche]
+1. Forca die Presta - Colle le Cese [36 Umbrien]
+1. Castelluccio - Cima del Redentore [33 Umbrien]
+1. Castelluccio - Monte delle Rose
+1. Forca die Gualdo - Monte Lieto [30 Umbrien]
+1. Castelluccio - Monte Ventosola [34 Umbrien]
+1. Vallegrascia - Madonna in Pantano [44 Marche]
+1. Rifugio Altino - M. Banditello - 131 - Madonna in Pantano
+1. Foce - Monte Rotondo
+1. Foce - Fosso del Balzo
+1. Foce - Larghetto Borghese - Passo Palazzo Borghese - E17
+1. Rifugio Sibilla - M. Sibilla [43 Marche]
+1. Gola dell'Infernaccio [42 Marche]
+1. Madonna del Ambro - Il Pizzo
+1. Madonna del Ambro - Rifugio G. Gualberto
+
 # Monti della Laga
 
 1. Cesacastina - Le Cento Fonti [4 Abruzze]

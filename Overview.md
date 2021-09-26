@@ -12,6 +12,12 @@ List of hikes
 1. Caramico Terme - Ponte della Pietra - S. Nicola (Valle dell'Orfento)
 1. Serramonacesca - Eremo di S. Onofrio - Passo Lanciano
 
+# Gran Sasso
+
+1. Pari di Tivo - Val Maone [6 Abruzze]
+1. Campo Imperatore 215A - Vado di Caro
+1. Vosta del Popolo (Schranke) - Cma. di Falete
+
 # Other
 
 1. Altidona - Lapedona

@@ -27,6 +27,10 @@ List of hikes
 1. Gola dell'Infernaccio [42 Marche]
 1. Madonna del Ambro - Il Pizzo
 1. Madonna del Ambro - Rifugio G. Gualberto
+1. M. Communitore - Macera della Morte [48 Marche]
+1. Gola dell'Infernaccio [42 Marche] + Eremo di S. Leonardo 
+1. S. Pellegrino - Forca Canapine
+1. Arquata d. T. - Forca di Presta (E16)
 
 # Monti della Laga
 
@@ -41,8 +45,10 @@ List of hikes
 1. Ascoli - M. Venta Rossa - Colle S. Marco
 1. Caprodossa - M. Ascencione
 1. Rotella - M. Ascencione
-1. Porchiano - M. Ascencione
+1. Porchiano - M. Ascencione (2x)
 1. Castel di Croche - M. Ascencione
+1. Cesano - Settecerri [Monte Gemelli]
+1. Villa Franca - Cerquito - (Colle S. Marco) [Monti Gemelli]
 
 # Monte Ceresa
 
@@ -50,6 +56,7 @@ List of hikes
 1. Tallacano [46 Marche]
 1. Tallacano - M. Vicito - M. Savucco
 1. Corneto - Venamartello - Cocoscia - Collefalciano - Vallefusella
+1. Novele - Peracchia
 
 # Majella
 
@@ -74,3 +81,4 @@ List of hikes
 1. Grottamare - Petrella
 1. Contrada Ciapelle
 1. Offida - Madonna della Sanita
+1. Cupra Marittima [CAI Anello di Cupra Marittima](https://www.caiascoli.it/attachments/article/573/Giornata%20FAI-Cupra-24%20marzo-Relazione.pdf)
